@@ -9,7 +9,7 @@ function AmountEnter({onChange,Amount,sym}) {
       <span className="text-black flex" >
         {sym}
         <input 
-            className="text-md font-semibold text-black ml-3" 
+            className="text-md font-semibold text-black ml-3 w-full" 
             value={Amount}
             onChange={(e) => onChange(e.target.value)}/>
       </span>
