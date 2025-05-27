@@ -1,12 +1,45 @@
-# React + Vite
+# 💱 Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet functional **Currency Converter** built using **React**. This project was created to strengthen my understanding of React fundamentals, including hooks, custom hooks, API integration, and dynamic UI updates.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Convert between different world currencies
+- Uses **real-time exchange rates** from an external API
+- Displays **country flags** and **currency symbols**
+- Built with **React** and styled using **Tailwind CSS**
+- Clean and responsive UI
+- Custom hooks for reusable logic
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Functional Components + Hooks)
+- **Tailwind CSS** (for styling)
+- **REST APIs**:
+  - [Frankfurter API](https://frankfurter.app) – for currency conversion rates
+  - [REST Countries API](https://restcountries.com/v3.1/all) – for flags and currency symbols
+
+## 📦 Getting Started
+
+1. Clone the repo:
+    ```bash
+    -git clone https://github.com/your-username/currency-converter.git
+    -cd currency-converter
+
+3. Install dependencies:
+    ```bash
+    -npm install
+
+5. Run the development server:
+    ```bash
+    -npm run dev   (or npm start if using Create React App)
+    -Open your browser at http://localhost:5173 or http://localhost:3000 depending on the setup.
+
+🌍 Live Demo
+https://shubhrati-09.github.io/CurrencyConverter/
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request with enhancements, bug fixes, or improvements.
+
+
+## Made with passion by Shubhrati!
