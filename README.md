@@ -2,6 +2,10 @@
 
 A simple yet functional **Currency Converter** built using **React**. This project was created to strengthen my understanding of React fundamentals, including hooks, custom hooks, API integration, and dynamic UI updates.
 
+## Screenshots
+<img width="683" height="auto" alt="Screenshot 2025-05-31 at 2 17 56 AM" src="https://github.com/user-attachments/assets/19aad92e-ff17-490e-a69c-62eeab21066e" />
+<img width="683" alt="Screenshot 2025-05-31 at 2 18 59 AM" src="https://github.com/user-attachments/assets/43c16d7a-4ee1-422c-91ea-4497bbeb59f8" />
+
 ## 🚀 Features
 
 - Convert between different world currencies
