@@ -14,7 +14,7 @@ function useDetails(){
 
     //getting flgs for each currencies we hai
     useEffect(() => {
-        fetch('https://restcountries.com/v3.1/all')
+        fetch('https://restcountries.com/v3.1/all?fields=flags,currencies')
         .then((res) => res.json())
         .then(countries => {
             const mapc = {}
